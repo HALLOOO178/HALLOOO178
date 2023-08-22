@@ -1,4 +1,4 @@
-### Hey!
+### Hey there 👋
 ### Welcome in my Profile!
 I am Hallo! I am the WinBrew CFW Developer, you probably know me as
 a developer that make CFW, discord bots etc, i have a shop for the
@@ -9,7 +9,7 @@ https://github.com/HALLOOO178/GodMode/releases
 I am italian and thats it! Have a nice day!
 
 
-### Hey!
+### it-IT
 ### Benvenuto sul mio Profilo!
 Sono Hallo, Lo sviluppatore del WinBrew CFW, probabilmente mi conosci come
 uno sviluppatore di un CFW, bot di discord etc, ho uno shop per le app del mio CFW
