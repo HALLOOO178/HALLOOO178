@@ -3,7 +3,7 @@
 </div>
 
 
-### Hey There! 👋
+# Hey There! 👋
 ### Welcome in my profile
 I am Hallo! I am the WinBrew CFW Developer, you probably know me as
 a developer that make CFW, discord bots etc, i have a shop for the
@@ -15,7 +15,7 @@ I am italian and thats it! Have a nice day!
 
 
 # it-IT
-# Benvenuto sul mio Profilo!
+### Benvenuto sul mio Profilo!
 Sono Hallo, Lo sviluppatore del WinBrew CFW, probabilmente mi conosci come
 uno sviluppatore di un CFW, bot di discord etc, ho uno shop per le app del mio CFW
 e se lo vuoi provare questi sono i link: https://discord.gg/fTP8t9GmWQ, 
