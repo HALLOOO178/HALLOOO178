@@ -3,7 +3,11 @@
 </div>
 
 
-# Hey There! 👋
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 ### Welcome in my profile
 I am Hallo! I am the WinBrew CFW Developer, you probably know me as
 a developer that make CFW, discord bots etc, i have a shop for the
