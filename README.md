@@ -1,9 +1,8 @@
 <div id="header" align="center">
   <img src="https://styles.redditmedia.com/t5_8jeheu/styles/communityIcon_lx5971axxc4b1.png?width=256&s=4eeb3d3729111fd602869ef3f0678bbf11a699e3" width="100"/>
 </div>
-### Hey There! 👋
-### Welcome in my profile!
-
+# it-IT
+# Benvenuto sul mio Profilo!
 I am Hallo! I am the WinBrew CFW Developer, you probably know me as
 a developer that make CFW, discord bots etc, i have a shop for the
 apps of my CFW, if yu want to try it this is the link to the discord
